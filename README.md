@@ -17,6 +17,16 @@ GitHub is where I document the things I am building, testing, and learning.
 * Creative interfaces and experimental product ideas
 * Better documentation for solo builders and small teams
 
+- **AI OPS** — autonomous sprint workflow system using Claude, Codex, Git, PM2, and server automation.
+- **Bluejays Hub** — live baseball companion app focused on game rhythm, narrative, and fan attachment.
+- **FGC Hub** — hockey first-goal contest platform with picks, schedules, eligibility, and leaderboard logic.
+- **Socialveil** — visual content planning and campaign workflow tool.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
 ## Featured Projects
 
 ### Calgary Council Values
