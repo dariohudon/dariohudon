@@ -28,33 +28,31 @@ My current work sits across a few themes:
 
 ## Featured Projects
 
-* **AI OPS** — an autonomous sprint workflow system using Claude, Codex, Git, PM2, and server automation to move product ideas from prompt to implementation.
-* **Bluejays Hub** — a live baseball companion app focused on game rhythm, narrative context, player stories, and fan attachment.
-* **Socialveil** — a visual social media planning and campaign workflow tool for organizing content, assets, approvals, and publishing strategy.
-* **FGC Hub** — a hockey first-goal contest platform with game schedules, player picks, eligibility rules, leaderboard logic, and admin tools.
-* **Pokémon** — a card collection dashboard for browsing sets, searching cards, tracking collection data, and exploring card details.
-* **ViewCake** — a video review and client feedback platform built around timestamped comments, revisions, approvals, and media delivery workflows.
+**AI OPS**
+A structured operating system for managing AI-assisted development work. It focuses on autonomous sprint workflows, handoffs, terminal-safe processes, audit trails, and keeping complex projects organized across human direction and AI execution.
 
+**Bluejays Hub**
+A live baseball companion app that translates the emotional rhythm of a Blue Jays game. Instead of only showing scores and statistics, it helps fans understand momentum, pressure, confidence, player stories, and why a moment matters.
 
-## Featured Projects
+**Socialveil**
+A visual social media planning and campaign workflow tool for organizing content, assets, approvals, and publishing strategy.
 
-### Calgary Council Values
+**FGC Hub**
+A hockey first-goal contest platform with game schedules, player picks, eligibility rules, leaderboard logic, and admin tools.
 
+**Pokémon**
+A card collection dashboard for browsing sets, searching cards, tracking collection data, and exploring card details.
+
+**Calgary Council Values**
 A civic data visualization project exploring how public information can be made easier to understand, compare, and discuss.
 
-### EMS Map
-
+**EMS Map**
 A public-facing emergency services visibility project focused on mapping, context, and accessible civic information.
 
-### Viewcake
+**ViewCake**
+A video review and client feedback platform built around timestamped comments, revisions, approvals, and media delivery workflows.
 
-A presentation and audience engagement concept built around clearer communication, better events, and more useful interaction.
 
-### Blue Jays Pulse  
-A live baseball companion app that translates the emotional rhythm of a Blue Jays game. Instead of only showing scores and statistics, it helps fans understand momentum, pressure, confidence, storylines, and why a moment matters.
-
-### AI Ops  
-A structured operating system for managing AI-assisted development work. It focuses on handoffs, sprint state, terminal-safe workflows, audit trails, and keeping complex projects organized across human direction and AI execution.
 
 ## What I Care About
 
