@@ -1,3 +1,5 @@
+![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariohudon&show_icons=true)
+
 # Dario Hudon
 
 I build practical tools, civic experiments, AI workflows, and creative systems.
