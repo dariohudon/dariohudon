@@ -1,3 +1,8 @@
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
 # Dario Hudon
 
 I build practical tools, civic experiments, AI workflows, and creative systems.
@@ -10,22 +15,26 @@ GitHub is where I document the things I am building, testing, and learning.
 
 ## Current Focus
 
-* AI-assisted operations and workflow systems
-* Civic transparency and public data tools
-* Sports companion apps and fan experience products
-* Prompt management and reusable AI systems
-* Creative interfaces and experimental product ideas
-* Better documentation for solo builders and small teams
+I’m building practical web apps, AI-assisted workflows, and small product systems that help people organize work, understand information, and move faster without adding unnecessary complexity.
 
-- **AI OPS** — autonomous sprint workflow system using Claude, Codex, Git, PM2, and server automation.
-- **Bluejays Hub** — live baseball companion app focused on game rhythm, narrative, and fan attachment.
-- **FGC Hub** — hockey first-goal contest platform with picks, schedules, eligibility, and leaderboard logic.
-- **Socialveil** — visual content planning and campaign workflow tool.
+My current work sits across a few themes:
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+* **AI-assisted operations** — workflow systems, sprint automation, agent coordination, and reusable development processes.
+* **Public data and civic tools** — interfaces that make complex civic or regional information easier to explore.
+* **Sports and fan experience products** — live companion apps, contest systems, and tools that make games more interactive.
+* **Prompt and knowledge systems** — reusable AI workflows, prompt libraries, and structured documentation.
+* **Creative product experiments** — playful interfaces, niche dashboards, and useful tools built from real workflow problems.
+* **Documentation for solo builders** — clearer handoffs, project state files, and operating systems for small teams.
+
+## Featured Projects
+
+* **AI OPS** — an autonomous sprint workflow system using Claude, Codex, Git, PM2, and server automation to move product ideas from prompt to implementation.
+* **Bluejays Hub** — a live baseball companion app focused on game rhythm, narrative context, player stories, and fan attachment.
+* **Socialveil** — a visual social media planning and campaign workflow tool for organizing content, assets, approvals, and publishing strategy.
+* **FGC Hub** — a hockey first-goal contest platform with game schedules, player picks, eligibility rules, leaderboard logic, and admin tools.
+* **Pokémon** — a card collection dashboard for browsing sets, searching cards, tracking collection data, and exploring card details.
+* **ViewCake** — a video review and client feedback platform built around timestamped comments, revisions, approvals, and media delivery workflows.
+
 
 ## Featured Projects
 
