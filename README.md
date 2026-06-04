@@ -40,9 +40,6 @@ A visual social media planning and campaign workflow tool for organizing content
 **FGC Hub**
 A hockey first-goal contest platform with game schedules, player picks, eligibility rules, leaderboard logic, and admin tools.
 
-**Pokémon**
-A card collection dashboard for browsing sets, searching cards, tracking collection data, and exploring card details.
-
 **Calgary Council Values**
 A civic data visualization project exploring how public information can be made easier to understand, compare, and discuss.
 
