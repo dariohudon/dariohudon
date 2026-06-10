@@ -5,17 +5,11 @@
 
 # Dario Hudon
 
-I build practical tools, civic experiments, AI workflows, and creative systems.
+I like building tools that are useful, explainable, and grounded in real human behaviour.
 
 My work usually sits somewhere between product strategy, storytelling, public data, automation, and interface design. I am especially interested in tools that make information easier to understand, decisions easier to make, and systems easier to navigate.
 
-I run **Octopus & Son**, a digital marketing and strategy agency based in Calgary, Alberta. Through that work, I help organizations clarify their message, organize their digital presence, and build systems that support better communication.
-
-GitHub is where I document the things I am building, testing, and learning.
-
 ## Current Focus
-
-I’m building practical web apps, AI-assisted workflows, and small product systems that help people organize work, understand information, and move faster without adding unnecessary complexity.
 
 My current work sits across a few themes:
 
@@ -49,16 +43,6 @@ A public-facing emergency services visibility project focused on mapping, contex
 **ViewCake**
 A video review and client feedback platform built around timestamped comments, revisions, approvals, and media delivery workflows.
 
-
-
-## What I Care About
-
-I like building tools that are useful, explainable, and grounded in real human behaviour.
-
-The best systems do not just display information. They help people understand what matters, what changed, what to do next, and why it matters.
-
-That is the thread connecting most of what I build here.
-
 ## Working Style
 
 I am not trying to make GitHub look perfect. I am trying to make the work visible.
@@ -67,5 +51,4 @@ Some repositories are active products. Some are prototypes. Some are experiments
 
 ## Links
 
-* Website: https://octopusandson.com
-* GitHub: https://github.com/dariohudon
+* Website: https://brightening.ca/
