@@ -22,29 +22,6 @@ My current work sits across a few themes:
 
 ## Featured Projects
 
-**AI OPS**
-A structured operating system for managing AI-assisted development work. It focuses on autonomous sprint workflows, handoffs, terminal-safe processes, audit trails, and keeping complex projects organized across human direction and AI execution.
-
-**Bluejays Hub**
-A live baseball companion app that translates the emotional rhythm of a Blue Jays game. Instead of only showing scores and statistics, it helps fans understand momentum, pressure, confidence, player stories, and why a moment matters.
-
-**Socialveil**
-A visual social media planning and campaign workflow tool for organizing content, assets, approvals, and publishing strategy.
-
-**FGC Hub**
-A hockey first-goal contest platform with game schedules, player picks, eligibility rules, leaderboard logic, and admin tools.
-
-**Calgary Council Values**
-A civic data visualization project exploring how public information can be made easier to understand, compare, and discuss.
-
-**EMS Map**
-A public-facing emergency services visibility project focused on mapping, context, and accessible civic information.
-
-**ViewCake**
-A video review and client feedback platform built around timestamped comments, revisions, approvals, and media delivery workflows.
-
-## Working Style
-
 I am not trying to make GitHub look perfect. I am trying to make the work visible.
 
 Some repositories are active products. Some are prototypes. Some are experiments. Some are records of learning. Together, they show how I think through problems, build tools, and turn ideas into working systems.
